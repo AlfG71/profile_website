@@ -1,3 +1,3 @@
 # profile_website
 
-I am learning how to publish a website with GitHub pages at the moment. More to come as I get a better handle of how this platform works
+Here is my first personal profile website.  I hope you like it and would love to hear your feedback on how I can improve.
