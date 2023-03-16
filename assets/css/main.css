@@ -23,11 +23,17 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: block;
+}
+
+#main, #footer {
+	background-color: rgb(233, 232, 232);
+}
 
 body {
 	line-height: 1;
@@ -2839,7 +2845,6 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
@@ -2853,7 +2858,7 @@ input, select, textarea {
 		}
 
 			#footer .copyright li {
-				border-left: solid 1px #d4d4d4;
+				border-left: solid 1px #6e6c6c;
 				display: inline-block;
 				font-size: 0.8em;
 				margin-left: 1em;
